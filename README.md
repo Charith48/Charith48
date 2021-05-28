@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charith48
 - 👀 I’m interested in web applications
-- 🌱 I’m currently learning full stack web developer
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on Shape AI
 - 📫 How to reach me using my mail "rcharithbabu@gamil.com"
 - intrested people can DM me for doing minor projects together .LETS LEARN TOGETHER
